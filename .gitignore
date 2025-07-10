@@ -1,0 +1,47 @@
+# LaTeX intermediate files
+*.aux
+*.log
+*.toc
+*.out
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.nav
+*.snm
+*.bbl
+*.blg
+*.xdv
+
+# PDF and other output files
+*.pdf
+*.dvi
+*.ps
+
+# TeXworks and editors backup
+*~
+*.bak
+*.backup
+*.tmp
+
+# MikTeX system files
+*.dvi
+*.gz
+*.glg
+*.glo
+*.gls
+*.ist
+
+# Overleaf and other cloud-based files
+*.synctex.gz
+*.acn
+*.acr
+*.alg
+
+# Visual Studio Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
